@@ -1,0 +1,4 @@
+editando log.txt para pruebas.
+--
+para poner en "borrador" un archivo en el que estamos trabajando sin hacerle commit, usamos git stash, cuando queremos recuperar ese trabajo lo traemos con git stash pop.
+
